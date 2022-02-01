@@ -77,7 +77,7 @@
     "date-fns": "^2.16.1",
     "detect-browser": "^2.4.0",
     "dompurify": "^2.0.17",
-    "draft-js": "^0.10.5",
+    "draft-js": "^0.11.0",
     "draftjs-to-html": "^0.8.3",
     "expose-loader": "^0.7.3",
     "faker": "^4.1.0",
