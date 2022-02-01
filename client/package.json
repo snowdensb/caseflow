@@ -181,7 +181,7 @@
     "react-select-event": "^4.1.4",
     "sinon": "^2.1.0",
     "weak-napi": "^2.0.2",
-    "webpack-dev-server": "^3.9.0"
+    "webpack-dev-server": "^4.0.0"
   },
   "resolutions": {
     "kind-of": ">=6.0.3",
