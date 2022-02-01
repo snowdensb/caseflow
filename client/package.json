@@ -176,7 +176,7 @@
     "mocha": "5.2.0",
     "mocha-junit-reporter": "^1.17.0",
     "prettier": "1.17.1",
-    "prettier-eslint": "^9.0.1",
+    "prettier-eslint": "^12.0.0",
     "react-refresh": "^0.9.0",
     "react-select-event": "^4.1.4",
     "sinon": "^2.1.0",
