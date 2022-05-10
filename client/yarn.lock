@@ -7335,6 +7335,14 @@ eslint-plugin-mocha@^4.11.0:
   dependencies:
     ramda "^0.24.1"
 
+eslint-plugin-mocha@^6.0.0:
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-mocha/-/eslint-plugin-mocha-6.3.0.tgz#72bfd06a5c4323e17e30ef41cd726030e8cdb8fd"
+  integrity sha512-Cd2roo8caAyG21oKaaNTj7cqeYRWW1I2B5SfpKRp0Ip1gkfwoR1Ow0IGlPWnNjzywdF4n+kHL8/9vM6zCJUxdg==
+  dependencies:
+    eslint-utils "^2.0.0"
+    ramda "^0.27.0"
+
 eslint-plugin-react@^7.19.0:
   version "7.19.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.19.0.tgz#6d08f9673628aa69c5559d33489e855d83551666"
@@ -13704,6 +13712,11 @@ ramda@^0.26:
   version "0.26.1"
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
   integrity sha512-hLWjpy7EnsDBb0p+Z3B7rPi3GDeRG5ZtiI33kJhTt+ORCd38AbAIjB/9zRIUoeTbE/AVX5ZkU7m6bznsvrf8eQ==
+
+ramda@^0.27.0:
+  version "0.27.2"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.27.2.tgz#84463226f7f36dc33592f6f4ed6374c48306c3f1"
+  integrity sha512-SbiLPU40JuJniHexQSAgad32hfwd+DRUdwF2PlVuI5RZD0/vahUco7R8vD86J/tcEKKF9vZrUVwgtmGCqlCKyA==
 
 randexp@^0.4.2:
   version "0.4.6"
