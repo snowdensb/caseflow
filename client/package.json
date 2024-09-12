@@ -109,7 +109,7 @@
     "react-on-rails": "11.3.0",
     "react-polling": "^1.0.5",
     "react-redux": "^7.2.0",
-    "react-router": "^5.1.2",
+    "react-router": "^6.0.0",
     "react-router-dom": "^5.1.2",
     "react-scroll-to-component": "^1.0.2",
     "react-scrolllock": "^3.0.1",
